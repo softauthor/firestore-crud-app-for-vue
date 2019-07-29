@@ -1,6 +1,4 @@
-# final
-
-> This is the final project folder for FirebaseUI Auth for Vue with Facebook, Google and Email Blog
+# Build A Secure Vue.js CRUD App with Firebase Auth + Firestore
 
 ## Build Setup
 
